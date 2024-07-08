@@ -1,0 +1,14 @@
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.AssemblyInfoInputs.cache
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.AssemblyInfo.cs
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.csproj.CoreCompileInputs.cache
+/Users/michellelai/Documents/flappybird/bin/Debug/net8.0/flappybird
+/Users/michellelai/Documents/flappybird/bin/Debug/net8.0/flappybird.deps.json
+/Users/michellelai/Documents/flappybird/bin/Debug/net8.0/flappybird.runtimeconfig.json
+/Users/michellelai/Documents/flappybird/bin/Debug/net8.0/flappybird.dll
+/Users/michellelai/Documents/flappybird/bin/Debug/net8.0/flappybird.pdb
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.dll
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/refint/flappybird.dll
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.pdb
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/flappybird.genruntimeconfig.cache
+/Users/michellelai/Documents/flappybird/obj/Debug/net8.0/ref/flappybird.dll
